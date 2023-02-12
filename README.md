@@ -4,9 +4,9 @@
 #### *Date : 2020*
 #### *Niveau : L1*
 
-<div style="text-align:center;">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/106891439/218287330-35ab6744-2b25-450d-be5d-9c4535b7ec63.png" width="50%" height="50%">
-</div>
+</p>
 
 ## Introduction
 
@@ -20,8 +20,10 @@ Lorsque le jeu démarre, un premier menu apparaît et attend une action du joueu
 ## Jeu
 
 Une fois le mode de jeu choisi, le joueur peut contrôler le serpent en utilisant les touches directionnelles du clavier. Le but du jeu est de manger les pommes sans toucher les murs ni toucher son propre corps, sinon la partie est perdu et un message de "game over" apparaît.
-<img src="https://user-images.githubusercontent.com/106891439/218287357-7e585ff1-5ed9-4c8d-8656-a96cb4d3cbf7.png" width="50%" height="50%" style="float:left;">
-<img src="https://user-images.githubusercontent.com/106891439/218287367-214db6b2-dc8e-4a32-a99b-08378efe52c0.png" width="50%" height="50%" style="float:left;">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/106891439/218287357-7e585ff1-5ed9-4c8d-8656-a96cb4d3cbf7.png" width="40%" height="40%">
+  <img src="https://user-images.githubusercontent.com/106891439/218287367-214db6b2-dc8e-4a32-a99b-08378efe52c0.png" width="40%" height="40%">
+</p>
 
 
 ## Fin de partie
