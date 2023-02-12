@@ -1,4 +1,8 @@
 # Rapport de projet : Snake en Python
+#### *Auteur : Hakim AOUDIA, Victor BERNIER*
+#### *Langage : Python*
+#### *Date : 2020*
+#### *Niveau : L1*
 
 ## Introduction
 
